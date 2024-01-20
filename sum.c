@@ -12,7 +12,7 @@ int main() {
     printf("Enter the second number: ");
     scanf("%d", &num2);
 
-    // Add the two numbers
+    // Add the two numbers,,,,
     int sum = num1 + num2;
 
     // Display the result
